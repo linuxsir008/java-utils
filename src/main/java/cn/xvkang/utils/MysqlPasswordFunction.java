@@ -1,4 +1,4 @@
-package cn.xvkang;
+package cn.xvkang.utils;
 
 import java.io.UnsupportedEncodingException;
 
