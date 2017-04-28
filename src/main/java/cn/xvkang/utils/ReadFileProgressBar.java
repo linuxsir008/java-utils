@@ -138,5 +138,6 @@ public class ReadFileProgressBar {
 		// new ReadFileProgressBar().readFile();
 		// new ReadFileProgressBar().lineNumberReader();
 		//new ReadFileProgressBar().zipFileLineNumberReader();
-	}// main End
+		
+	}//main End
 }
